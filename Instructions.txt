@@ -1,0 +1,5 @@
+Q1 - Create a stored procedure which displays all customers’ turnovers (i.e. the sum of all invoices) by either months or quarters or years.
+
+Q2 - Create a view identifying all the customers who have made an order which didn’t transform to an invoice. This should be done in only one SQL query, which may involve sub-querying.
+
+Q3 - Write a stored function calculating the loss of revenues per customer from all orders not converted to invoices. This function must be able to output results per month, quarters or years.
